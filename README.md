@@ -1,8 +1,12 @@
 # CORALS
 Generalized Coclustering Analysis of Non-Gaussian Tensor Arrays
+
 The main functions are 
+
 (1) GBC.m   generalized biclustering analysis for matrix data (continuous, binary, count-valued) 
+
 (2) GCC.m   generalized coclustering analysis for tensor arrays (continuous, binary, count-valued)
+
 
 For testing coclustering, run Simulation_Analysis.m
 
